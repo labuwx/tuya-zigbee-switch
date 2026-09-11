@@ -10,6 +10,8 @@ Please describe what you are working on, under ## Upcoming
 
 ## Upcoming
 
+- SONOFF ZBM5 support
+
 ### Devices
 
 - **Hommyn 2-gang L-only relay module** (`_TZ3000_0e6uvexf`, `MODULE_HOMMYN_TS0012`)
