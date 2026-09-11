@@ -5829,14 +5829,14 @@ SWITCH_SONOFF_ZBM5_3C:
   override_z2m_device: null
   tuya_module: none
   mcu_family: Silabs
-  mcu: EFR32MG22
+  mcu: EFR32MG22C224F512GN32
   config_str: SONOFF;ZBM5-3C-80/86;LD0;SA0f;RA8A5;ID1;SB2f;RA7A4;ID2;SB3f;RA6A3;ID3;M;
   alt_config_str: null
   old_manufacturer_names: null
   old_zb_models: null
   stock_manufacturer_id: null
   stock_image_type: null
-  firmware_image_type: 999999
+  firmware_image_type: 9999
   build: yes
   status: null
   info: null
