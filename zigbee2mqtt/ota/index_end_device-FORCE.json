@@ -3,7 +3,7 @@
     "fileName": "tlc_switch-1.1.2-ddc8953a-forced.zigbee",
     "fileVersion": 4294967295,
     "fileSize": 181802,
-    "url": "https://github.com/labuwx/tuya-zigbee-switch/raw/refs/heads/sonoff_zbm5_build/bin/end_device/SWITCH_SONOFF_ZBM5_3C_END_DEVICE/tlc_switch-1.1.2-ddc8953a-forced.zigbee",
+    "url": "https://github.com/labuwx/tuya-zigbee-switch/raw/c1edf17208d478d63f7ce7ee8143cbad8bf953ed/bin/end_device/SWITCH_SONOFF_ZBM5_3C_END_DEVICE/tlc_switch-1.1.2-ddc8953a-forced.zigbee",
     "imageType": 9999,
     "manufacturerCode": 4169,
     "sha512": "850b617861ba3f2832cc28bea18eef0b673ac8858a0000a73f881b21fd56fbdb5845bcbf22f479f593110221ce7dd9735a34624c497865fd51b27b9716b53c8f",
